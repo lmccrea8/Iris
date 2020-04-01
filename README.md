@@ -19,6 +19,7 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) +
   geom_smooth(size = 1, se = FALSE) + 
   facet_grid(rows = vars(Species))
   
-  2nd edit test
-  again
-  works!
+  
+adding in a box plot 
+boop boop bee bop 
+it looks good
