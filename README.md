@@ -16,5 +16,9 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) +
   geom_point(size = 3) + 
   geom_smooth(size = 1, se = FALSE) + 
   facet_grid(rows = vars(Species))
+  
+  2nd edit test
+  again
+  works!
 
 
