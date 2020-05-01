@@ -20,7 +20,10 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) +
   facet_grid(rows = vars(Species))
   
   
+<<<<<<< HEAD
 adding in a box plot 
 boop boop bee bop 
 it looks good
+=======
+>>>>>>> 1526aa863846ee1e9e458a99aa7bf48c8dbc1bd8
 
