@@ -19,9 +19,5 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) +
   geom_smooth(size = 1, se = FALSE) + 
   facet_grid(rows = vars(Species))
   
-  test
-  practice 5/4/2020 2
-  new branch 
-  fuck some serious shitttttt up 
-but it works nbd so can merge it   
+branch test 2  
   
