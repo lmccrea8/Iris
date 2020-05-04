@@ -20,5 +20,7 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) +
   facet_grid(rows = vars(Species))
   
   test
-  practice 5/4/2020
+  practice 5/4/2020 2
+  
+  
   
